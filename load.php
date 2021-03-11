@@ -1,8 +1,8 @@
 <?php
-if (file_exists('config.php')) {
-    require_once('config.php');
+if (file_exists(dirname(__FILE__) . '/config.php')) {
+    require_once(dirname(__FILE__) . '/config.php');
 } else {
-    //缺少config文件，转至install.php
+    echo("缺少config文件，转至install.php");
     header("Location: install.php");
     exit();
 }
