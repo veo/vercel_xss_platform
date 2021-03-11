@@ -1,0 +1,2 @@
+# vercel_xss_platform
+基于vercel Serverless Functions搭建的无服务xss平台
