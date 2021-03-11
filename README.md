@@ -15,7 +15,7 @@
 
 基于蓝莲花的 [BlueLotus_XSSReceiver](https://github.com/firesunCN/BlueLotus_XSSReceiver)
 
-我修改完支持vercel的代码 [vercel_xss_platform](https://github.com/veo/vercel_xss_platform)
+修改完支持vercel的代码 [vercel_xss_platform](https://github.com/veo/vercel_xss_platform)
 ### 3.改造
 
 Serverless Functions在解析php代码时是这种形式
