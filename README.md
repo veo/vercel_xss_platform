@@ -9,4 +9,4 @@
 了解详情：[Serverless Functions](https://vercel.com/docs/serverless-functions/introduction)
 
 ### Blog
-[vercel_xss_platform](https://xwhoami.com/2021/vercelxss/)
+[vercel_xss_platform](https://veo.pub/2021/vercelxss/)
